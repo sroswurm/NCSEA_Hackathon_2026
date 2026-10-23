@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>NCSEA Hackathon 2026</Name>
+    <Assembly>NcseaHackathon.dll</Assembly>
+    <FullClassName>NcseaHackathon.App</FullClassName>
+    <AddInId>e1a3b5c7-9d2f-4a6e-8b0c-1d3e5f7a9b2c</AddInId>
+    <VendorId>NcseaHackathon</VendorId>
+    <VendorDescription>NCSEA Hackathon 2026 Team</VendorDescription>
+  </AddIn>
+</RevitAddIns>

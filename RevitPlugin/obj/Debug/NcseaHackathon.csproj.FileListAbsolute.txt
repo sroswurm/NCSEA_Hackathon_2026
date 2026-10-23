@@ -1,0 +1,12 @@
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.csproj.AssemblyReference.cache
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.AssemblyInfoInputs.cache
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.AssemblyInfo.cs
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.csproj.CoreCompileInputs.cache
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\bin\Debug\NcseaHackathon.deps.json
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\bin\Debug\NcseaHackathon.dll
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\bin\Debug\NcseaHackathon.pdb
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.dll
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\refint\NcseaHackathon.dll
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\NcseaHackathon.pdb
+C:\Users\Seth Roswurm\Documents\GitHub\NCSEA_Hackathon_2026\RevitPlugin\obj\Debug\ref\NcseaHackathon.dll
